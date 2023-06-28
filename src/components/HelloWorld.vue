@@ -36,6 +36,7 @@ export default {
   props: {
     msg: String,
     msg2:commit001,
+    msg3:commit002,
   }
 }
 </script>

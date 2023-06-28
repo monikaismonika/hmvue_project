@@ -37,6 +37,7 @@ export default {
     msg: String,
     msg2:commit001,
     msg3:commit002,
+    msg4:commit003,
   }
 }
 </script>
